@@ -25,8 +25,6 @@ import memberTeam from './src/membersTeam/MemberTeam';
 import Register from './src/Register/Register';
 import SettingApplication from './src/settingApp/SettingApp';
 import TeamDetailsInformation from './src/teamDetails/TeamDetailsInformation';
-import loginReducer from './store/reducer/Auth/Login.Reducer';
-import registerReducer from './store/reducer/Auth/Register.Reducer';
 import addUserReducer from './store/reducer/User/AddUser.Reducer';
 import deleteUserReducer from './store/reducer/User/DeleteUser.Reducer';
 import getDetailsUserReducer from './store/reducer/User/DetailsUser.Reducer';
